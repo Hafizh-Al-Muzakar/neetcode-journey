@@ -1,3 +1,5 @@
+# Tips gunakan hash set untuk mendapatkan Time Complexity = O(n)
+
 class Solution:
      def containsDuplicate(self, nums: list[int]) -> bool:
         hashset = set()
